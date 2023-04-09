@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: blue;
+    border-radius: 20px;
+    padding: 5px;
+}
+main h1{
+   color:blueviolet;
+   font-family: Impact, haettensschweiler , 'Arial Narrow Bold', sans-serif;
+   text-align: center;
+   border-radius: 20px;
+   background-color: rgb(0, 217, 224);
+}
+footer{
+   background-color: palevioletred; 
+    
+}
+footer p{
+  background-color: powderblue;
+  border-radius: 20px;
+  margin: 5px
+}
+nav a{
+  text-decoration: none;
+  background-color: green;
+  border-radius: 6px;
+}
+.londyy{
+    background-color: green;
+    border-radius: 19px;
+    border-color: indigo;
+
+}
+h2{
+    color: lightblue;
+}
+.a{
+    text-decoration: lime;
+    background-color: mediumpurple;
+    color: mintcream;
+    border-radius: 20px;
+}
